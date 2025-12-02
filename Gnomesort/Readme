@@ -1,0 +1,7 @@
+Gnome sort sammenligner naboelementerne og bytter dem hvis de står forkert. 
+Den bevæger sig gennem listen, og hvis to elementer byttes, går algoritmen et skridt tilbage, og sikre sig alt står korrekt.
+
+https://en.wikipedia.org/wiki/Gnome_sort
+
+Best case er O(n), hvis arrayet næsten er sorteret.
+Worst case O(n2), hvis arrayet er omvendt sorteret. 
